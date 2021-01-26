@@ -1,0 +1,31 @@
+.form-item {
+  margin-left: 20px;
+  margin-bottom: 15px;
+}
+.radio-input {
+  margin-right: 20px;
+}
+
+.submit-btn {
+  margin: 20px;
+}
+
+.form-container {
+  border: 2px solid black;
+  margin-top: 21px;
+  padding: 10px;
+}
+
+.form-input-error {
+  color: red;
+  font-weight: 600;
+}
+
+.form-input-element-error {
+  border: 2px solid red;
+}
+
+.student-form-header {
+  text-align: center;
+  padding: 20px 0;
+}
